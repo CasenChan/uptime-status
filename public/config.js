@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Casen's Service',
+  SiteName: 'Casen Service',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
