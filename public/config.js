@@ -24,10 +24,6 @@ window.Config = {
       url: 'https://status.casen.cc/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/CasenChan/uptime-status'
-    },
-    {
       text: 'Blog',
       url: 'https://casen.cc/'
     },
