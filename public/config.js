@@ -25,7 +25,7 @@ window.Config = {
     },
     {
       text: 'Blog',
-      url: 'https://casen.cc/'
+      url: 'https://blog.casen.cc/'
     },
   ],
 };
